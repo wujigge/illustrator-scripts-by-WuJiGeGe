@@ -19,3 +19,8 @@ Gets the color that the swatches have selected, and then selects all objects of 
 ---
 ## SelectSameColorFillWhiteElseFilBlack.jsx
 Select the object and all objects with the same fill color, fill them white, and any other non-empty objects fill them black
+
+---
+
+## SelectToNewBoard
+Select an object, copy it, create a new artboard with a horizontal space of 20px from the original artboard, and paste the object in place on the new artboard.
