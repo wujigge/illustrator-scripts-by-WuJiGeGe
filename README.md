@@ -1,8 +1,21 @@
 # illustrator-scripts-by-WuJiGeGe
-Some illustrator scripts created using ai
+Some illustrator scripts created using ai.
 
-## Aiboard1024
+I'm a 3d modeling renderer and these scripts are usually related to my work. If you work like me, I hope these scripts can help you!
+
+---
+## Aiboard1024.jsx
 This script is used to resize the current artboard and all objects, up to 1024, and center the objects to the artboard.
 
-## SelectNull
+---
+## SelectNull.jsx
 Select Fill and stroke blank objects with one click.
+
+---
+
+## SelectSwatchesSameColor.jsx
+Gets the color that the swatches have selected, and then selects all objects of the same color.
+
+---
+## SelectSameColorFillWhiteElseFilBlack.jsx
+Select the object and all objects with the same fill color, fill them white, and any other non-empty objects fill them black
