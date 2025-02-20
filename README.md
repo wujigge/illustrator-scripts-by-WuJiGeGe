@@ -24,3 +24,7 @@ Select the object and all objects with the same fill color, fill them white, and
 
 ## SelectToNewBoard
 Select an object, copy it, create a new artboard with a horizontal space of 20px from the original artboard, and paste the object in place on the new artboard.
+
+---
+## SelectToRectangle
+Draws a rectangle whose length and width are equal to the length and width of the selected object.
